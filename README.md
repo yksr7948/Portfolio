@@ -7,7 +7,7 @@
 
 다양한 웹 개발 기술을 익히고, 지속적으로 성장하기 위해 노력하고 있습니다. 
 
-제 포트폴리오를 통해 제가 어떤 프로젝트를 진행해왔는지, 어떤 기술을 공부하고 있는지 확인해 보세요.
+제 포트폴리오를 통해 제가 진행한 프로젝트와 공부해온 기술들에 대해 살펴봐 주시기를 부탁드립니다.
 
 ## 사용 가능 기술
 - Front-End : JavaScript, JQuery, HTML5. CSS3, AJax, React
@@ -29,7 +29,7 @@
 ### 2) 어디로 GO?
 
    24.06.17 ~ 24.07.17 (4주)
-
+   
    ![logo](https://github.com/user-attachments/assets/75607550-6a80-401e-8fbb-5f55747a27db)
    
    [어디로 GO? 프로젝트 이동](https://github.com/yksr7948/wherego-Taeung.git)
