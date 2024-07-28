@@ -25,4 +25,4 @@
 
    ![logo](https://github.com/user-attachments/assets/75607550-6a80-401e-8fbb-5f55747a27db)
    
-   [어디로 GO? 프로젝트 이동]([https://github.com/yksr7948/PJT_GBangE-Taeung.git](https://github.com/yksr7948/wherego-Taeung.git))
+   [어디로 GO? 프로젝트 이동](https://github.com/yksr7948/wherego-Taeung.git)
