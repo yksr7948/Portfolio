@@ -3,9 +3,10 @@
 <br />
 
 ## :bow: About ME
-> 안녕하세요! 웹 개발에 열정을 가지고 최선을 다하고 있는 김태웅입니다.
-> 
-> 이 GitHub 저장소는 제가 프로젝트를 진행하면서 배웠던 것, 부딪혔던 문제, 그리고 그 문제를 어떻게 해결을 했는지를 정리해 둔 공간입니다.
+> 안녕하세요! <b>"웹 개발에 대한 열정으로 끊임없이 성장하는 개발자"</b> 김태웅입니다.
+>
+> 저는 국비교육을 통해 웹 개발자로서의 역량을 쌓았고, 현재는 학원 친구들과 함께 프로젝트를 진행하며 계속해서 공부하고 있습니다.
+> 제가 프로젝트를 진행하면서 경험한 점, 마주했던 문제, 그리고 그 문제를 해결한 방법들을 정리해 두었습니다
 
 <br />
 
@@ -32,11 +33,11 @@
 
 ### 2. :running: GBangE
 
+> ![image_360-removebg-preview](https://github.com/user-attachments/assets/d5308add-ffbc-4c5f-ab28-56dd9161dfcb)
+>
 > 마라톤 대회 정보 (국비교육 - Semi Project)
 > - 개발기간 : 24.05.01 ~ 24.05.16 (2주)
-> 
-> ![image_360-removebg-preview](https://github.com/user-attachments/assets/d5308add-ffbc-4c5f-ab28-56dd9161dfcb)
-> 
+>  
 > [GBangE 프로젝트 이동](https://github.com/yksr7948/PJT_GBangE-Taeung.git)
 
 <br />
