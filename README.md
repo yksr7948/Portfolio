@@ -56,7 +56,7 @@
 >
 > 마라톤 대회 정보 (국비교육 - Semi Project)
 > - 개발기간 : 24.05.01 ~ 24.05.16 (2주)
-
+>
 > [GBangE 프로젝트 이동](https://github.com/yksr7948/PJT_GBangE-Taeung.git)
 >
 
