@@ -49,23 +49,24 @@
 <br />
 
 ## :film_projector: 프로잭트
-### 1. :luggage: 어디로 GO?
 
+### 1. :running: GBangE
+
+> ![image_360-removebg-preview](https://github.com/user-attachments/assets/d5308add-ffbc-4c5f-ab28-56dd9161dfcb)
 >
+> 마라톤 대회 정보 (국비교육 - Semi Project)
+> - 개발기간 : 24.05.01 ~ 24.05.16 (2주)
+
+> [GBangE 프로젝트 이동](https://github.com/yksr7948/PJT_GBangE-Taeung.git)
+>
+
+### 2. :luggage: 어디로 GO?
+
 > ![logo](https://github.com/user-attachments/assets/75607550-6a80-401e-8fbb-5f55747a27db)
 >
 > 여행 추천 사이트 (국비교육 - Final Project)
 >  - 개발기간 : 24.06.17 ~ 24.07.17 (4주)
 >    
 > [어디로 GO? 프로젝트 이동](https://github.com/yksr7948/wherego-Taeung.git)
-
-### 2. :running: GBangE
-
-> ![image_360-removebg-preview](https://github.com/user-attachments/assets/d5308add-ffbc-4c5f-ab28-56dd9161dfcb)
->
-> 마라톤 대회 정보 (국비교육 - Semi Project)
-> - 개발기간 : 24.05.01 ~ 24.05.16 (2주)
->  
-> [GBangE 프로젝트 이동](https://github.com/yksr7948/PJT_GBangE-Taeung.git)
 
 <br />
